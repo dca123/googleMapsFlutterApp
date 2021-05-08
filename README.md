@@ -1,6 +1,6 @@
 # google_maps_in_flutter
 
-A new Flutter project.
+Google Maps Android project built with flutter
 
 ## Getting Started
 
